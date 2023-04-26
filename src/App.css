@@ -2,12 +2,10 @@
   width: 300px;
   padding-bottom: 20px;
 }
-
 .colour-border{
-  border: 3px solid green;
+  border: 3px solid orange;
   padding: 10px;
 }
-
 .header{
   padding: 10px;
 }
